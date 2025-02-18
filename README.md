@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL
 
 ## Education
-- B.ITC., Physics | Kyambogo University (_June 2006_)
+- B.ITC | Kyambogo University (_June 2006_)
 - GenAI for Executives & Business Leaders: An Introduction | IBM (_May 2024_)
 
 ## Work Experience
