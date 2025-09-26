@@ -3,7 +3,7 @@
 #### Tech stack & tools I use: Python · Pandas · NumPy · Matplotlib · scikit-learn · PHP · Java · JavaScript · Google Workspace · APIs · Cloud/Servers ·  
 
 ## Education
-- B.ITC | Kyambogo University (_June 2006_)
+- Bachelor of Information Technology and Computing | Kyambogo University (_June 2006_)
 - GenAI for Executives & Business Leaders: An Introduction | IBM (_May 2024_)
 - (Ongoing) MSc Computer Science - Cyberseucrity | UTAMU (_Sept 2026_)
 
